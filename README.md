@@ -21,6 +21,8 @@ OUr software is designed to allow users to create any scripts they would like, r
 
 (INTEGER) audio_time - The osu! beatmap audio time
 
+(STRING) osu_state - Gives you the state (for example: Menu = 0)
+
 / / HITOBJECT VALUES / /
 
 (INTEGER) current_hitobject_x - X position component of the current hitobject
