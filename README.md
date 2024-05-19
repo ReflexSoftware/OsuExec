@@ -47,4 +47,7 @@ OUr software is designed to allow users to create any scripts they would like, r
 
 (FUNCTION) release_key(int keycode) - Stops pressing a key
 
-## WIP
+## Credits
+osu!rx - IPC related code
+
+OsuParsers - Beatmap parsing code
